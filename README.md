@@ -7,7 +7,7 @@ This repository accompanies the paper:
 This project introduces a Multi-Phase Curriculum Learning framework for Multi-Agent Proximal Policy Optimization (MAPPO), enhancing resilience and stability in decentralized water control systems.
 
 ## Repository Contents
-- `MAPPO.ipynb`: Main training and analysis notebook.
+- `marl_training.ipynb`: Main training and analysis notebook.
 - `data/inflow_sample.csv`: Example precipitation dataset (publicly available).
 - `data/preprocess_demand.py`: Illustrative preprocessing script for restricted demand data.
 - `requirements.txt`: Python dependencies.
@@ -21,4 +21,5 @@ This project introduces a Multi-Phase Curriculum Learning framework for Multi-Ag
 To reproduce experiments:
 ```bash
 pip install -r requirements.txt
-jupyter notebook MAPPO.ipynb
+jupyter notebook marl_training.ipynb
+
