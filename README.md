@@ -23,4 +23,6 @@ To reproduce experiments:
 pip install -r requirements.txt
 jupyter notebook marl_training.ipynb
 
+The notebook contains the full training pipeline, evaluation scripts, and figure generation used in the manuscript.
+
 
