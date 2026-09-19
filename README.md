@@ -4,7 +4,13 @@ This repository accompanies the paper:
 > **Vidhyalakshmi Amarnath**, *Robust Control of Water Distribution Networks under Drought Stress: A Multi-Agent Curriculum Learning Approach*, Water Resources Management, 40(5), 214 (2026).
 
 ---
-## The author declares a potential competing interest: aspects of the methodology described in this study are the subject of a pending U.S. provisional patent application (No. 63/944,327).
+
+## Intellectual Property & Patent Notice
+Aspects of the methodology, algorithms, and system architectures implemented in this repository are the subject of a pending U.S. Provisional Patent Application (No. 63/944,327). 
+
+This repository is shared strictly for academic evaluation and research reproduction. Commercial use, reproduction, or redistribution without a formal licensing agreement is prohibited.
+
+---
 
 ## Overview
 This repository provides the implementation of a Multi-Phase Curriculum Learning (MPCL) framework built on Multi-Agent Proximal Policy Optimization (MAPPO) to enhance resilience and operational stability in decentralized water distribution control systems.
