@@ -1,8 +1,9 @@
 # Multi-Phase Curriculum Learning for MARL in Water Resource Management
 
 This repository accompanies the paper:
-> Vidhyalakshmi Amarnath, Robust Control of Water Distribution Networks under Drought Stress: A Multi-Agent Curriculum Learning Approach *(published in Water Resources Management)*. cite: Amarnath, V. (2026). Robust Control of Water Distribution Networks Under Drought Stress: A Multi-Agent Curriculum Learning Approach. Water Resources Management, 40(5), 214.
+> **Vidhyalakshmi Amarnath**, *Robust Control of Water Distribution Networks under Drought Stress: A Multi-Agent Curriculum Learning Approach*, Water Resources Management, 40(5), 214 (2026).
 
+---
 ## The author declares a potential competing interest: aspects of the methodology described in this study are the subject of a pending U.S. provisional patent application (No. 63/944,327).
 
 ## Overview
@@ -25,7 +26,10 @@ To reproduce experiments:
 pip install -r requirements.txt
 jupyter notebook marl_training_revised.ipynb
 
-The notebook contains the full training pipeline, evaluation scripts, and figure generation used in the manuscript.
+## Intellectual Property & Patent Notice
+Aspects of the methodology, algorithms, and system architectures described in this repository and associated publication are subject to a pending U.S. Provisional Patent Application (No. 63/944,327). 
+
+This source code is provided strictly for academic and non-commercial research evaluation. Commercial use, redistribution, or modification without a prior licensing agreement is strictly prohibited.
 
 
 
