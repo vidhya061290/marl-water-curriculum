@@ -43,3 +43,7 @@ This repository provides the implementation of a Multi-Phase Curriculum Learning
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
+2. Launch the execution notebook:
+ ```bash
+jupyter notebook marl_training_revised.ip
